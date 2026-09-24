@@ -1,0 +1,2 @@
+Search books by title or author.
+Enter the title or author name and compare it with the book records.
