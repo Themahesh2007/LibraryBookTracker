@@ -1,2 +1,4 @@
 The Alchemist - Paulo Coelho - Literary Fiction
 Clean Code - Robert C. Martin - Programming
+The Pragmatic Programmer - Andrew Hunt - Programming
+
